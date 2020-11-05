@@ -1,2 +1,2 @@
 # Roomate-Expense-Web-Application
-A Roomate expense tracking application built using flask, python and SQLite.
+A Roomate expense tracking application built using Flask, Python and SQLite.
